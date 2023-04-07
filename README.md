@@ -36,7 +36,7 @@ pytest tests/regress_in --env=prod
 ### [Job](https://jenkins.autotests.cloud/job/Api_tests_Vishnyakova/)
 
 ##### При нажатии на "Собрать сейчас" начнется сборка тестов и их прохождение
-![This is an image](attachments/screenshots/jenkins1.png)
+![This is an image](attachments/screenshots/jenkins.png)
 
 <!-- Allure report -->
 
