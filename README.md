@@ -45,5 +45,11 @@ pytest tests/regress_in --env=prod
 ##### После прохождения тестов, результаты автоматически сохраняются. Чтобы посмотреть Allure отчет нужно нажать на иконке allure report у сборки.
 ![This is an image](attachments/screenshots/allure.png)
 
+<!-- Allure TestOps -->
+
+### <img width="8%" title="Allure TestOps" src="attachments/logo/Instrument-Allure-TestOps.png"> Allure report
+
+##### После прохождения тестов, Создается ланч в Allure TestOps c результатом прогона тестов. Что бы просмотреть ланч нужно нажать на иконку allure testops у сборки.
+![This is an image](attachments/screenshots/allure_testops.png)
 
  
